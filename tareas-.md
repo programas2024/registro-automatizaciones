@@ -8,4 +8,5 @@
 🔹 4. Validar estados de errores o exito
 🔹 5. Realizar mejores optimos
 
+* ** Codigo js: <ul><li>🔹 1. Revisar diagramas</li><li>🔹 2. Diseñar fronted en figma</li><li>🔹 3. Conectar el backend y fronted</li><li>🔹 4. Validar estados de errores o exito</li><li>🔹 5. Realizar mejores optimos</li></ul>
 * **Fecha de Registro:** 25/5/2026
